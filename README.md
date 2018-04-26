@@ -1,4 +1,4 @@
-# Simple Implementation of PyVideo
+# Simple Implementation of pytube
 
 This project is a simple hands free youtube video downloader. You only need to collect the youtube links. The code will be the one to distinguish if the youtube video is already downloaded or not
 
